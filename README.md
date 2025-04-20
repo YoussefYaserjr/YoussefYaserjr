@@ -27,7 +27,7 @@
 - Build projects that solve **real problems** in Egypt and the Middle East
 
 📫 Connect with me:
-- LinkedIn: [linkedin.com/in/youssef-yaser](https://www.linkedin.com/in/youssef-yaser-emam)
+- LinkedIn: [[linkedin.com/in/youssef-yaser](https://www.linkedin.com/in/youssef-yaser-emam)]]
 - Email: yy1170@fayoum.edu.eg
 - GitHub: [@youssefyaser](https://github.com/YoussefYaserjr)
 
