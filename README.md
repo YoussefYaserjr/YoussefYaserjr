@@ -1,37 +1,50 @@
-# 👋 Hi, I'm Youssef Yaser
-
+👋 Hi, I'm Youssef Yaser
 🎓 I'm a third-year student at the Faculty of Computer Science & Artificial Intelligence, graduating in 2026.
 
 💻 I'm passionate about:
-- **Competitive Programming** (C++)
-- **Full Stack Web Development** (Currently learning PHP and planning to master Spring Boot and REST APIs)
-- **Artificial Intelligence** (interested in applying AI in real-world problems in the MENA region)
-- **System-Level Concepts** (Memory management, Operating Systems, and Architecture)
 
-🌍 I’m currently working on:
-- 🚦 **Graduation Project**: *Middle East Traffic & Road Condition AI*  
-  Tech Stack:
-  - **AI/ML**: Python (TensorFlow/PyTorch)
-  - **Backend**: .NET
-  - **Frontend**: React.js (Web), Flutter (Mobile)
-  - **Database**: MySQL
-  - **APIs**: Google Maps, OpenStreetMap, local traffic APIs
+Competitive Programming (C++)
+
+Backend & Full Stack Web Development
+Currently working with Java and Spring Boot, and learning to build robust RESTful APIs
+
+Artificial Intelligence
+I aim to apply AI to solve real-world problems in Egypt and the Middle East
+
+System-Level Concepts
+Interested in memory management, operating systems, and computer architecture
+
+🌱 What I'm working on:
+
+Building full backend systems using:
+
+Java + Spring Boot (JPA, JDBC, Security, REST APIs)
+
+MySQL database integration
+
+Clean code practices, layered architecture, and OWASP security principles
 
 📚 Courses I’m taking:
-- Advanced OS, Image Processing, Big Data, Automata, Networks, and Database Systems
-- Self-learning: Java, Spring Boot, REST APIs, Clean Code, OWASP Top 10
+
+Advanced OS, Image Processing, Big Data, Automata, Networks, and Database Systems
+
+Self-learning: Spring Boot, Clean Code, OWASP Top 10, and advanced backend development
 
 🚀 Goals:
-- Become a full-stack developer with strong backend and AI skills
-- Solve a large number of problems on platforms like **LeetCode**
-- Build projects that solve **real problems** in Egypt and the Middle East
+
+Master Java backend development using Spring Boot
+
+Become a skilled full-stack developer with strong backend and AI capabilities
+
+Solve 500+ problems on platforms like LeetCode
+
+Build projects that solve real problems in the MENA region
 
 📫 Connect with me:
-- LinkedIn: [[linkedin.com/in/youssef-yaser](https://www.linkedin.com/in/youssef-yaser-emam)]]
-- Email: yy1170@fayoum.edu.eg
-- GitHub: [@youssefyaser](https://github.com/YoussefYaserjr)
 
----
+LinkedIn:[ linkedin.com/in/youssef-yaser-emam](https://www.linkedin.com/in/youssef-yaser-emam-565748251/)
+
+Email: yy1170@fayoum.edu.eg
 
 ### 🔧 Tech Stack & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
