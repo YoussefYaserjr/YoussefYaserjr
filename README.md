@@ -1,5 +1,5 @@
 👋 Hi, I'm Youssef Yaser
-🎓 I'm a third-year student at the Faculty of Computer Science & Artificial Intelligence, graduating in 2026.
+🎓 I'm a fourth-year student at the Faculty of Computer Science & Artificial Intelligence, graduating in 2026.
 
 💻 I'm passionate about:
 
