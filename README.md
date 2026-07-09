@@ -4,7 +4,6 @@
 
 <a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YoussefYaserjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -16,13 +15,12 @@
 
 ### 👋 About Me
 
-- 🎓 B.Sc. Computer & Artificial Intelligence @ **Fayoum University** — expected **Oct 2026**
-- 🛠️ Backend-focused engineer with hands-on experience across **Spring Boot, microservices, and cloud infrastructure**
-- 🔭 Currently building a **JWT-based auth service** on **Spring Security 7 / Spring Boot 4**, covering RBAC, CORS, and CSRF
-- 🩺 Wrapping up my graduation project, **MEDORA** — a Smart Clinic Management System
-- ☁️ HCIA-Cloud Service (Huawei) certified, with hands-on Linux KVM / VMware virtualization experience
-- 📍 Giza, Egypt
-- 💬 Ask me about Spring Security, system design, or load-balancing strategies
+Passionate Software Engineer with strong foundation in back-end development and emerging expertise in distributed
+systems. Demonstrates quick learning ability and hands-on problem-solving skills through diverse projects spanning
+Spring Boot microservices, real-time applications, and cloud services. Experienced in full software development life-cycle
+from design to deployment, with practical knowledge in performance optimization and infrastructure management.
+Effective team collaborator with proven ability to adapt to new technologies and deliver quality solutions. Eager to
+contribute technical skills and continuous learning mindset to challenging back-end engineering roles.
 
 ---
 
