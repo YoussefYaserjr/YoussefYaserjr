@@ -53,33 +53,7 @@ Designed and deployed virtualized infrastructure with Linux KVM and VMware, prov
 
 ---
 
-### 🚀 Featured Projects
 
-<!-- Replace the links below with your actual repo URLs — these are placeholders based on your project names -->
-
-| Project | Highlights |
-|---|---|
-| **[Spring Boot Microservices + Nginx Load Balancer](https://github.com/YoussefYaserjr/spring-boot-microservices-nginx)** | Distributed traffic across 3 Spring Boot instances via Nginx — **408 req/sec**, 24 ms avg response time. Benchmarked round-robin, least-connections & IP-hash load balancing with Apache Bench. |
-| **[Summarize Chrome Extension](https://github.com/YoussefYaserjr/summarize-chrome-extension)** | Streams real-time page summaries over a bidirectional WebSocket protocol, integrating the Gemini API for sub-second structured responses. |
-| **[Real-Time Chat Application](https://github.com/YoussefYaserjr/realtime-chat-app)** | Spring Boot + WebSockets/STOMP backend supporting concurrent sessions and room-based messaging, built for horizontal scaling with a message broker. |
-| **MEDORA — Smart Clinic Management System** *(in progress)* | Graduation project: full documentation, UML/DFD diagrams, and a Spring Boot backend for patient, doctor, and admin workflows. |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefYaserjr&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYaserjr&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=YoussefYaserjr&amp;theme=tokyonight&amp;hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefYaserjr&amp;theme=tokyo-night&amp;hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ### 🏅 Achievements & Certifications
 
