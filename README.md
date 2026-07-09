@@ -4,7 +4,6 @@
 
 <a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://github.com/YoussefYaserjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br/><br/>
 
@@ -16,13 +15,12 @@
 
 ### 👋 About Me
 
-- 🎓 B.Sc. Computer & Artificial Intelligence @ **Fayoum University** — expected **Oct 2026**
-- 🛠️ Backend-focused engineer with hands-on experience across **Spring Boot, microservices, and cloud infrastructure**
-- 🔭 Currently building a **JWT-based auth service** on **Spring Security 7 / Spring Boot 4**, covering RBAC, CORS, and CSRF
-- 🩺 Wrapping up my graduation project, **MEDORA** — a Smart Clinic Management System
-- ☁️ HCIA-Cloud Service (Huawei) certified, with hands-on Linux KVM / VMware virtualization experience
-- 📍 Giza, Egypt
-- 💬 Ask me about Spring Security, system design, or load-balancing strategies
+Passionate Software Engineer with strong foundation in back-end development and emerging expertise in distributed
+systems. Demonstrates quick learning ability and hands-on problem-solving skills through diverse projects spanning
+Spring Boot microservices, real-time applications, and cloud services. Experienced in the full software development life cycle
+from design to deployment, with practical knowledge in performance optimization and infrastructure management.
+Effective team collaborator with proven ability to adapt to new technologies and deliver quality solutions. Eager to
+contribute technical skills and a continuous learning mindset to challenging back-end engineering roles.
 
 ---
 
@@ -143,47 +141,7 @@ Designed and deployed virtualized infrastructure with Linux KVM and VMware, prov
 
 ---
 
-### 🐍 Bonus: contribution snake animation
-
-GitHub can render an animated "snake" eating your contribution graph. It needs one small GitHub Action in this repo — steps:
-
-1. In this repo, go to **Settings → Secrets and variables → Actions**, no secrets needed (it uses the default token).
-2. Create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: YoussefYaserjr
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. After it runs once, add this to the README wherever you'd like it:
-
-```markdown
 ![snake animation](https://raw.githubusercontent.com/YoussefYaserjr/YoussefYaserjr/output/github-contribution-grid-snake.svg)
-```
 
 <div align="center">
 
