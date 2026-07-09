@@ -1,66 +1,144 @@
-👋 Hi, I'm Youssef Yaser
-🎓 I'm a fourth-year student at the Faculty of Computer Science & Artificial Intelligence, graduating in 2026.
+<div align="center">
 
-💻 I'm passionate about:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c7a7b&height=220&section=header&text=Youssef%20Yaser%20Emam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=e6f7f7" width="100%"/>
 
-Competitive Programming (C++)
+<a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/YoussefYaserjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Backend & Full Stack Web Development
-Currently working with Java and Spring Boot, and learning to build robust RESTful APIs
+<br/><br/>
 
-Artificial Intelligence
-I aim to apply AI to solve real-world problems in Egypt and the Middle East
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C7A7B&center=true&vCenter=true&width=650&lines=Spring+Boot+%7C+Microservices+%7C+Distributed+Systems;JWT+Auth%2C+RBAC+%26+Spring+Security+7;CS+%26+AI+Student+%40+Fayoum+University;Quick+learner+%E2%80%94+always+shipping+something+new)](https://git.io/typing-svg)
 
-System-Level Concepts
-Interested in memory management, operating systems, and computer architecture
+</div>
 
-🌱 What I'm working on:
+---
 
-Building full backend systems using:
+### 👋 About Me
 
-Java + Spring Boot (JPA, JDBC, Security, REST APIs)
+- 🎓 B.Sc. Computer & Artificial Intelligence @ **Fayoum University** — expected **Oct 2026**
+- 🛠️ Backend-focused engineer with hands-on experience across **Spring Boot, microservices, and cloud infrastructure**
+- 🔭 Currently building a **JWT-based auth service** on **Spring Security 7 / Spring Boot 4**, covering RBAC, CORS, and CSRF
+- 🩺 Wrapping up my graduation project, **MEDORA** — a Smart Clinic Management System
+- ☁️ HCIA-Cloud Service (Huawei) certified, with hands-on Linux KVM / VMware virtualization experience
+- 📍 Giza, Egypt
+- 💬 Ask me about Spring Security, system design, or load-balancing strategies
 
-MySQL database integration
+---
 
-Clean code practices, layered architecture, and OWASP security principles
+### 🧰 Tech Stack
 
-📚 Courses I’m taking:
+<div align="center">
 
-Advanced OS, Image Processing, Big Data, Automata, Networks, and Database Systems
+<img src="https://skillicons.dev/icons?i=java,cpp,php,spring,hibernate,laravel,mysql,docker,kubernetes,nginx,linux,git,github,html,maven" />
 
-Self-learning: Spring Boot, Clean Code, OWASP Top 10, and advanced backend development
+<br/><br/>
 
-🚀 Goals:
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A4A4A?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Apache Bench](https://img.shields.io/badge/Apache%20Bench-D22128?style=flat-square&logo=apache&logoColor=white)
+![HCIA--Cloud](https://img.shields.io/badge/HCIA--Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white)
 
-Master Java backend development using Spring Boot
+</div>
 
-Become a skilled full-stack developer with strong backend and AI capabilities
+---
 
-Solve 500+ problems on platforms like LeetCode
+### 💼 Experience
 
-Build projects that solve real problems in the MENA region
+**Software Development Intern** — DEPI, Fayoum, Egypt · `07/2024 – 03/2025`
+Built a full-stack e-commerce platform (PHP, Laravel, MySQL) with MVC architecture, a normalized schema, and RESTful APIs; collaborated in an Agile team using Git for version control.
 
-📫 Connect with me:
+**Cloud Engineer Intern** — NTI Smart Village, Egypt · `09/2025 – 10/2025`
+Designed and deployed virtualized infrastructure with Linux KVM and VMware, provisioning compute/storage/network resources aligned to Huawei Cloud service patterns; earned the HCIA-Cloud Service certification.
 
-LinkedIn:[ linkedin.com/in/youssef-yaser-emam](https://www.linkedin.com/in/youssef-yaser-emam-565748251/)
+---
 
-Email: yy1170@fayoum.edu.eg
+### 🚀 Featured Projects
 
-### 🔧 Tech Stack & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+<!-- Replace the links below with your actual repo URLs — these are placeholders based on your project names -->
+
+| Project | Highlights |
+|---|---|
+| **[Spring Boot Microservices + Nginx Load Balancer](https://github.com/YoussefYaserjr/spring-boot-microservices-nginx)** | Distributed traffic across 3 Spring Boot instances via Nginx — **408 req/sec**, 24 ms avg response time. Benchmarked round-robin, least-connections & IP-hash load balancing with Apache Bench. |
+| **[Summarize Chrome Extension](https://github.com/YoussefYaserjr/summarize-chrome-extension)** | Streams real-time page summaries over a bidirectional WebSocket protocol, integrating the Gemini API for sub-second structured responses. |
+| **[Real-Time Chat Application](https://github.com/YoussefYaserjr/realtime-chat-app)** | Spring Boot + WebSockets/STOMP backend supporting concurrent sessions and room-based messaging, built for horizontal scaling with a message broker. |
+| **MEDORA — Smart Clinic Management System** *(in progress)* | Graduation project: full documentation, UML/DFD diagrams, and a Spring Boot backend for patient, doctor, and admin workflows. |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefyaser&show_icons=true&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefYaserjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYaserjr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=YoussefYaserjr&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefYaserjr&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-### ✨ Fun Fact
-> I'm building skills that connect **code, creativity, and real-world impact** — all while trying to make it to the ACPC!
+### 🏆 Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YoussefYaserjr&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+### 🐍 Bonus: contribution snake animation
+
+GitHub can render an animated "snake" eating your contribution graph. It needs one small GitHub Action in this repo — steps:
+
+1. In this repo, go to **Settings → Secrets and variables → Actions**, no secrets needed (it uses the default token).
+2. Create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: YoussefYaserjr
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. After it runs once, add this to the README wherever you'd like it:
+
+```markdown
+![snake animation](https://raw.githubusercontent.com/YoussefYaserjr/YoussefYaserjr/output/github-contribution-grid-snake.svg)
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c7a7b,100:0f2027&height=120&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefYaserjr&color=2c7a7b&style=flat-square&label=Profile+Views)
+
+</div>
