@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c7a7b&amp;height=220&amp;section=header&amp;text=Youssef%20Yaser%20Emam&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Backend%20%26%20Distributed%20Systems%20Engineer&amp;descAlignY=58&amp;descSize=18&amp;descColor=e6f7f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Youssef%20Yaser%20Emam&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20Distributed%20Systems%20Engineer&descAlignY=60" width="100%" />
 
 <a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
