@@ -83,13 +83,63 @@ Designed and deployed virtualized infrastructure with Linux KVM and VMware, prov
 
 ---
 
-### 🏆 Trophies
+### 🏅 Achievements & Certifications
 
-<div align="center">
+<details>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YoussefYaserjr&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" />
+- **HCIA-Cloud Service** — Huawei Certified ICT Associate, Cloud Computing
+- **Kubernetes (K8s)** — Course completion
+- **Huawei Cloud Lab** — Hands-on lab completion
 
-</div>
+</details>
+
+<details>
+<summary><b>🔐 Security</b></summary>
+<br/>
+
+- **Spring Security** — Course completion
+- **OWASP Top 10 (Web) — 2021 Edition**
+- **CS & OWASP** — Course certificate
+
+</details>
+
+<details>
+<summary><b>☕ Backend & Java</b></summary>
+<br/>
+
+- **ITI Java Development Track — Yellow Belt**
+- **Java** — Course certificate
+- **Java Basics** — Certificate
+- **JDBC** — Course certificate
+
+</details>
+
+<details>
+<summary><b>🗄️ Programming Fundamentals</b></summary>
+<br/>
+
+- **SQL Basics** — Certificate
+- **C Programming Language** — Course certificate
+
+</details>
+
+<details>
+<summary><b>🎨 Design</b></summary>
+<br/>
+
+- **UX Design** — Course certificate
+
+</details>
+
+<details>
+<summary><b>🏆 Competitive Programming</b></summary>
+<br/>
+
+- **ECPC 2024** — Egyptian Collegiate Programming Contest, qualification round
+
+</details>
 
 ---
 
