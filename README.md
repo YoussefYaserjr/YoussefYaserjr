@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c7a7b&height=220&section=header&text=Youssef%20Yaser%20Emam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=e6f7f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c7a7b&amp;height=220&amp;section=header&amp;text=Youssef%20Yaser%20Emam&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Backend%20%26%20Distributed%20Systems%20Engineer&amp;descAlignY=58&amp;descSize=18&amp;descColor=e6f7f7" width="100%"/>
 
-<a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/youssefyaseremam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:youssefyaseremam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/YoussefYaserjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br/><br/>
 
@@ -15,12 +16,13 @@
 
 ### 👋 About Me
 
-Passionate Software Engineer with strong foundation in back-end development and emerging expertise in distributed
-systems. Demonstrates quick learning ability and hands-on problem-solving skills through diverse projects spanning
-Spring Boot microservices, real-time applications, and cloud services. Experienced in full software development life-cycle
-from design to deployment, with practical knowledge in performance optimization and infrastructure management.
-Effective team collaborator with proven ability to adapt to new technologies and deliver quality solutions. Eager to
-contribute technical skills and continuous learning mindset to challenging back-end engineering roles.
+- 🎓 B.Sc. Computer & Artificial Intelligence @ **Fayoum University** — expected **Oct 2026**
+- 🛠️ Backend-focused engineer with hands-on experience across **Spring Boot, microservices, and cloud infrastructure**
+- 🔭 Currently building a **JWT-based auth service** on **Spring Security 7 / Spring Boot 4**, covering RBAC, CORS, and CSRF
+- 🩺 Wrapping up my graduation project, **MEDORA** — a Smart Clinic Management System
+- ☁️ HCIA-Cloud Service (Huawei) certified, with hands-on Linux KVM / VMware virtualization experience
+- 📍 Giza, Egypt
+- 💬 Ask me about Spring Security, system design, or load-balancing strategies
 
 ---
 
@@ -70,12 +72,12 @@ Designed and deployed virtualized infrastructure with Linux KVM and VMware, prov
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefYaserjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYaserjr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefYaserjr&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYaserjr&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=YoussefYaserjr&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=YoussefYaserjr&amp;theme=tokyonight&amp;hide_border=true" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefYaserjr&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefYaserjr&amp;theme=tokyo-night&amp;hide_border=true" width="100%"/>
 
 </div>
 
@@ -85,7 +87,7 @@ Designed and deployed virtualized infrastructure with Linux KVM and VMware, prov
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YoussefYaserjr&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=YoussefYaserjr&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" />
 
 </div>
 
@@ -135,7 +137,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c7a7b,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c7a7b,100:0f2027&amp;height=120&amp;section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoussefYaserjr&color=2c7a7b&style=flat-square&label=Profile+Views)
 
