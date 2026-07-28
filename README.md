@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Passionate Software Engineer with strong foundation in back-end development and emerging expertise in distributed
+Passionate Software Engineer with a strong foundation in back-end development and emerging expertise in distributed
 systems. Demonstrates quick learning ability and hands-on problem-solving skills through diverse projects spanning
 Spring Boot microservices, real-time applications, and cloud services. Experienced in the full software development life cycle
 from design to deployment, with practical knowledge in performance optimization and infrastructure management.
